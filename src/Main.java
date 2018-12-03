@@ -35,7 +35,29 @@ public class Main {
         City city12 = new City(199, 200, 'L');
         City city13 = new City(17, 88, 'M');
         City city14 = new City(64, 96, 'N');
-        City city15 = new City(44, 183, 'Ñ');
+        City city15 = new City(44, 183, 'Ñ'); 
+        City city16 = new City(151 , 26 , 'O');
+        City city17 = new City(9  , 123  , 'P');
+        City city18 = new City(72  , 152  , 'Q');
+        City city19 = new City(100 , 87 , 'R');
+        City city20 = new City(116 , 96, 'S');
+        City city21 = new City(54 , 4, 'T');
+        City city22 = new City(46 , 26, 'U');
+        City city23 = new City(16 , 1, 'V');
+        City city24 = new City(199, 163 , 'W');
+        City city25 = new City(122 , 88, 'X');
+        City city26 = new City(148 , 96, 'Y');
+        City city27 = new City(44, 153 , 'Z');          
+        City city28 = new City(102  , 26, '1');
+        City city29 = new City(169 , 105 , '2');
+        City city30 = new City(46 , 68 , '3');
+        City city31 = new City(17, 141 , '4');
+        City city32 = new City(16 , 125, '5');
+        City city33 = new City(117  , 183, '6');      
+        City city34 = new City(106   , 182  , '7');
+        City city35 = new City(162  , 53 , '8');
+        City city36 = new City(158  , 4  , '9');
+
 
 
         case1.addCity(city1);
@@ -53,6 +75,28 @@ public class Main {
         case1.addCity(city13);
         case1.addCity(city14);
         case1.addCity(city15);
+        case1.addCity(city16);
+        case1.addCity(city17);
+        case1.addCity(city18);
+        case1.addCity(city19);
+        case1.addCity(city20);
+        case1.addCity(city21);
+        case1.addCity(city22);
+        case1.addCity(city23);
+        case1.addCity(city24);
+        case1.addCity(city25);
+        case1.addCity(city26);
+        case1.addCity(city27);
+        case1.addCity(city28);
+        case1.addCity(city29);
+        case1.addCity(city30);
+        case1.addCity(city31);
+        case1.addCity(city32);
+        case1.addCity(city33);
+        case1.addCity(city34);
+        case1.addCity(city35);
+        case1.addCity(city36);
+
         
         //case1.setBaseCity(city5);
 
